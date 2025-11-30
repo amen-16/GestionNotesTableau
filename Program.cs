@@ -23,8 +23,9 @@ class Programm
     {
         for (int i = 0; i < n; i++)
         {
-            Console.WriteLine("T[" + i + "]=" + t[i]);
+            Console.Write(t[i] + "  ");
         }
+        Console.WriteLine();
     }
 
     static double somme(double[] t, int n)
@@ -76,6 +77,28 @@ class Programm
         return f;
     }
 
+    
+    static double[] tri(double[] t, int n)
+    {
+        bool permut;
+        do
+        {
+            permut = false;
+            for (int i = 0; i < n - 1; i++)   
+            {
+                if (t[i] > t[i + 1])
+                {
+                    double temp = t[i];
+                    t[i] = t[i + 1];
+                    t[i + 1] = temp;   
+                    permut = true;
+                }
+            }
+        } while (permut);
+
+        return t;
+    }
+
     static void Main()
     {
         int n;
@@ -93,5 +116,9 @@ class Programm
             Console.WriteLine("Existe");
         else
             Console.WriteLine("N'existe pas");
+
+        Console.WriteLine("Le tableau trié :");
+        t = tri(t,n);
+        afficher(t,n);
     }
 }

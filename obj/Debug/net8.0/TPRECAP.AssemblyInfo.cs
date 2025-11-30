@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPRECAP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04ac25517946482f42170144fcdbbe7a9a5bf630")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPRECAP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPRECAP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\bin\Debug\net8.0\TPRECAP.exe
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\bin\Debug\net8.0\TPRECAP.deps.json
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\bin\Debug\net8.0\TPRECAP.runtimeconfig.json
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\bin\Debug\net8.0\TPRECAP.dll
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\bin\Debug\net8.0\TPRECAP.pdb
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.AssemblyInfoInputs.cache
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.AssemblyInfo.cs
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.csproj.CoreCompileInputs.cache
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.dll
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\refint\TPRECAP.dll
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.pdb
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.genruntimeconfig.cache
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\ref\TPRECAP.dll
+C:\Users\Amenallah\source\repos\functions\TPRECAP\TPRECAP\obj\Debug\net8.0\TPRECAP.sourcelink.json
