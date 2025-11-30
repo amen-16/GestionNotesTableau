@@ -99,6 +99,26 @@ class Programm
         return t;
     }
 
+    static bool rechercheDicho(double[] t, int n, double x)
+    {
+        int debut = 0;
+        int fin = n - 1;
+
+        while (debut <= fin)
+        {
+            int milieu = (debut + fin) / 2;
+
+            if (t[milieu] == x)
+                return true;
+
+            if (x > t[milieu])
+                debut = milieu + 1;
+            else
+                fin = milieu - 1;
+        }
+
+        return false;
+    }
     static void Main()
     {
         int n;
@@ -120,5 +140,11 @@ class Programm
         Console.WriteLine("Le tableau trié :");
         t = tri(t,n);
         afficher(t,n);
+
+        Console.WriteLine("Recherche avec Dicho");
+        if (rechercheDicho(t, n, x))
+            Console.WriteLine("Existe ");
+        else
+            Console.WriteLine("N'existe pas ");
     }
 }
